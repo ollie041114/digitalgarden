@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/olzhas-yessenbayev/","tags":"gardenEntry","dgShowBacklinks":true}
 ---
 
+> [!question] **Project information**
+> Lorem ipsum dolor sit amet
 
-> [!abstract] **[[Skills/Skills\|Skills]]**
+>[!abstract] **[[Skills/Skills\|Skills]]**
 > 
 >**Front-end**: [[Skills/Web dev/ReactJS\|ReactJS]], [[Skills/Web dev/D3\|D3]] 
 >**Back-end**: [[Skills/Web dev/Solidity\|Solidity]], [[Skills/Web dev/GraphQL\|GraphQL]], [[Skills/Web dev/Solidity\|Solidity]]
@@ -11,7 +13,7 @@
 >**Data:** [[Skills/Web dev/D3\|D3]] [[p5.js\|p5.js]] 
 >
 
-
+[[Projects/Walden Center\|Walden Center]]
 If you've just opened Obsidian, you'll see two documents here.
 The one in the left pane is a text file, which you can edit using Markdown syntax. The one in the right pane is a _Preview_ of the same text file if you were to export it as HTML, or as a PDF document. Note that some things look different in Preview, and, most obviously, links are not in brackets. To follow a link, click on it in the Preview pane. You can follow links in the Editor pane as well, by holding down `Ctrl/Cmd` and clicking on the link. If you want to go back to the page you were on before, use the shortcut `Ctrl/Cmd-alt-LeftArrow`
 <iframe border=0 frameborder=0 height=250 width=550 src="https://twitframe.com/show?url=https%3A%2F%2Ftwitter.com%2Fjack%2Fstatus%2F20"> </iframe>
