@@ -13,8 +13,6 @@
 >**Data:** [[Skills/Web dev/D3\|D3]] [[p5.js\|p5.js]] 
 >
 
-[[Projects/Walden Center\|Walden Center]]
-
 
 If you get lost at any time, or just want to explore what else Obsidian can do, `Ctrl/Cmd-P` brings up the Command Palette. You can type commands there, like "Navigate back", and you'll see options filter to a short list, along with hotkey shortcuts if they have them.
 
