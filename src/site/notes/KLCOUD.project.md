@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/klcoud-project/","tags":"gardenEntry","dgShowBacklinks":true}
 ---
 
-# KCLOUD.project
-
 > [!abstract] **[[Skills/Skills\|Skills]]**
 > 
 > **Front-end**: [[Skills/Web dev/ReactJS\|ReactJS]], [[Skills/Web dev/D3\|D3]] 
